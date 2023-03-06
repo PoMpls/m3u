@@ -55,10 +55,6 @@ rtp://@239.0.1.181:8208
 rtp://@239.0.1.186:8208
 #EXTINF:-1, [029] Paramount Network
 rtp://@239.0.0.90:8208
-
-
-SERIES
-
 #EXTINF:-1, [031] M+ Series {DRM}
 rtp://@239.0.3.20:8208
 #EXTINF:-1, [032] M+ Series 2 {DRM}
@@ -91,10 +87,6 @@ rtp://@239.0.0.84:8208
 rtp://@239.0.0.107:8208
 #EXTINF:-1, [047] A3Series
 rtp://@239.0.3.29:8208
-
-
-DEPORTES
-
 #EXTINF:-1, [049] Multideporte {DRM}
 rtp://@239.0.3.33:8208
 #EXTINF:-1, [050] M+ #Vamos {DRM}
@@ -155,10 +147,6 @@ rtp://@239.0.1.170:8208
 rtp://@239.0.3.26:8208
 #EXTINF:-1, [079] UBEAT {DRM}
 rtp://@239.0.0.33:8208
-
-
-DOCUMENTALES
-
 #EXTINF:-1, [080] National Geographic {DRM}
 rtp://@239.0.0.103:8208
 #EXTINF:-1, [081] NAT GEO Wild {DRM}
@@ -175,10 +163,6 @@ rtp://@239.0.0.38:8208
 rtp://@239.0.0.32:8208
 #EXTINF:-1, [088] AMC Crime {DRM}
 rtp://@239.0.0.57:8208
-
-
-ESTILO DE VIDA
-
 #EXTINF:-1, [090] Cocina {DRM}
 rtp://@239.0.0.27:8208
 #EXTINF:-1, [091] Decasa {DRM}
